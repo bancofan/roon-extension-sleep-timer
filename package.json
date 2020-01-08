@@ -1,0 +1,15 @@
+{
+    "name": "Sleep Timer",
+    "version": "1.0.0",
+    "description": "Roon Extension Sleep Timer to stop playback on all zones",
+    "main": "sleep-timer.js",
+    "author": "Bancofan",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "node-roon-api": "github:roonlabs/node-roon-api"
+    }
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/bancofan/roon-extension-sleep-timer.git"
+    }
+}
