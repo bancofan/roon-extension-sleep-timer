@@ -16,7 +16,7 @@ var roon = new RoonApi({
     display_name:        'Sleep Timer',
     display_version:     '1.0.0',
     publisher:           '',
-    email:               'aleckrav@gmail.com',
+    email:               '',
     website:             'https://github.com/bancofan',
 
     core_paired: function(core) {

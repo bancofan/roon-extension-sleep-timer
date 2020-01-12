@@ -1,7 +1,7 @@
 {
     "name": "SleepTimer",
     "version": "1.0.0",
-    "description": "Roon Extension Sleep Timer to stop playback on all zones",
+    "description": "Roon Extension Sleep Timer to stop playback on selected zone",
     "main": "sleep-timer.js",
     "author": "Bancofan",
     "license": "Apache-2.0",
